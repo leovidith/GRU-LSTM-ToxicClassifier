@@ -1,4 +1,4 @@
-# Toxic Comment Detection and Classification using GRU, Bi-LSTM, Glove Embeddings
+# Toxic Comment Detection and Classification using GRU, Bi-LSTM, Pretrained Glove Embeddings
 ## Overview
 
 The **Multilingual Jigsaw Comment Classification** project tackles the challenge of toxic comment detection using cutting-edge Natural Language Processing (NLP) and deep learning techniques. This solution focuses on multilingual datasets, leveraging pretrained word embeddings and advanced neural architectures for binary classification.
